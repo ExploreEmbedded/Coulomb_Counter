@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name EE_Library)(type KiCad)(uri H:\Github\Exploreembedded_Kicad_Library-\ExploreEmbedded.pretty-master)(options "")(descr ""))
+  (lib (name EE_Logo)(type KiCad)(uri H:\Github\Exploreembedded_Kicad_Library-\Exploreembedded_Logo.pretty)(options "")(descr ""))
 )

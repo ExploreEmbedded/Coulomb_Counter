@@ -28,6 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:ExploreM3-cache
 LIBS:Coulomb_Counter-cache
 EELAYER 25 0
 EELAYER END
@@ -442,4 +443,37 @@ Wire Wire Line
 Wire Wire Line
 	7550 2350 7550 2250
 Connection ~ 7550 2250
+$Comp
+L EE_Logo U?
+U 1 1 58AD098D
+P 8550 2850
+F 0 "U?" H 8550 2700 40  0000 C CNN
+F 1 "EE_Logo" H 8550 2760 40  0000 C CNN
+F 2 "" H 8550 2850 40  0000 C CNN
+F 3 "" H 8550 2850 40  0000 C CNN
+	1    8550 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L MountingHole U?
+U 1 1 58AD0A3E
+P 9050 2800
+F 0 "U?" H 9050 2650 40  0000 C CNN
+F 1 "MountingHole" H 9050 2700 40  0000 C CNN
+F 2 "" H 9050 2800 40  0000 C CNN
+F 3 "" H 9050 2800 40  0000 C CNN
+	1    9050 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MountingHole U?
+U 1 1 58AD0BD7
+P 9600 2800
+F 0 "U?" H 9600 2650 40  0000 C CNN
+F 1 "MountingHole" H 9600 2700 40  0000 C CNN
+F 2 "" H 9600 2800 40  0000 C CNN
+F 3 "" H 9600 2800 40  0000 C CNN
+	1    9600 2800
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
